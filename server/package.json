@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Servidor para controlar una cosa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "azure-iothub": "^1.16.2",
+    "express": "^4.18.2"
+  }
+}
